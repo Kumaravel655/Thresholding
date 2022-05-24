@@ -104,6 +104,9 @@ for i in range(0,9):
 </br>
 </br>
 
+</br>
+</br>
+
 
 ### Optimum Global Thesholding using Otsu's Method
 ![Screenshot (142)](https://user-images.githubusercontent.com/75235334/169997731-b4c789cb-6688-4b77-8c08-55ab5843f383.png)
